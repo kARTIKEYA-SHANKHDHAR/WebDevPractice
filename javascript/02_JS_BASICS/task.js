@@ -5,8 +5,8 @@
 // round the final amount using Math.round()
 //print the subtotal, discount , and final payable amount 
 
-const ticketPrice =300;
-const quantity =10;
+const ticketPrice =250;
+const quantity =3;
 const cc="bajscbs";
 
 let subtotal =ticketPrice * quantity;
